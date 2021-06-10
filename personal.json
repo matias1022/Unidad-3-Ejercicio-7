@@ -1,0 +1,65 @@
+{
+    "__class__": "Lista",
+    "personales": [
+        {
+            "__class__": "Docente",
+            "__atributos__": {
+                "cuil": "20-43641926-1",
+                "apellido": "Gonzalez",
+                "nombre": "Matias",
+                "sueldoB": 720000.0,
+                "antiguedad": 4,
+                "carrera": "LSI",
+                "cargo": "Profesor",
+                "catedra": "POO"
+            }
+        },
+        {
+            "__class__": "DocenteInvestigador",
+            "__atributos__": {
+                "cuil": "20-32421292-1",
+                "apellido": "Romero",
+                "nombre": "Fabian",
+                "sueldoB": 725000.0,
+                "antiguedad": 2,
+                "carrera": "LSI",
+                "cargo": "exclusivo",
+                "catedra": "POO",
+                "categ": "I",
+                "extra": 4000.0,
+                "investigacion": "Machine Learning",
+                "tipoI": "Cientifica"
+            }
+        },
+        {
+            "__class__": "Docente",
+            "__atributos__": {
+                "cuil": "21-11112222-0",
+                "apellido": "Vera",
+                "nombre": "Alex",
+                "sueldoB": 1116000.0,
+                "antiguedad": 24,
+                "carrera": "LSI",
+                "cargo": "simple",
+                "catedra": "Gestion de las Organizaciones"
+            }
+        },
+        {
+            "__class__": "DocenteInvestigador",
+            "__atributos__": {
+                "cuil": "20-34241424-0",
+                "apellido": "Fernandez",
+                "nombre": "Nicolas",
+                "sueldoB": 115000.0,
+                "antiguedad": 2,
+                "carrera": "LSI",
+                "cargo": "exclusivo",
+                "catedra": "P00",
+                "categ": "V",
+                "extra": 5000.0,
+                "investigacion": "IA",
+                "tipoI": "Cientifica"
+            }
+        }
+    ]
+}
